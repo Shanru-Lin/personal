@@ -10,8 +10,8 @@
 
 
 <p align="center">
-<img src= "create.gif" width="150" height="300" vspace="100">
-<img src= "list.gif" width="150" height="300">
+<img src= "create.gif" width="150" height="300" vspace=50>
+<img src= "list.gif" width="150" height="300" vspace=50>
 </p>
 
 ## Features
