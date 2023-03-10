@@ -22,7 +22,7 @@ BookApp
 
 <p align="center">
 <img src= "create.gif" width="150" height="300">
-<img src= "list.gif" width="150" height="300">
+<img src= "list.gif" width="150" height="300" style="padding-left: 10px">
 </p>
 
 ## Features
