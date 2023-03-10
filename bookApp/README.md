@@ -1,7 +1,7 @@
 BookApp
 
-![](create.gif)
-![](list.gif)
+![](create.gif = =300x400)
+![](list.gif = =100x250)
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
