@@ -1,25 +1,5 @@
 BookApp
 
-<style>
-.container {
-  display: flex;
-  align-items: center; 
- padding-left: 10px;
-}
-img{
-  margin-left: 15px ;
-  margin-right: 15px;
-}
-  </style>
-  <body>
-    <div class="container">
-      <div class="image"> <img src="https://i.pinimg.com/564x/8c/0b/3a/8c0b3ad94d124ac7b4a1262aa2d2969f.jpg" alt="This is my image." height="850px"/> </div> 
-      <div class="image"> <img src="https://i.pinimg.com/564x/85/97/45/8597454b816fc5685761e8dc9ac20933.jpg" alt="This is my second image." height="850px"/> </div> 
-     <div class="image"> <img src="https://i.pinimg.com/564x/c5/5b/d5/c55bd5d0277abd58dce98363ec1dac95.jpg" alt="My third image." height="850px"/> </div> 
-    </div>
-  </body>
-</html>
-
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
@@ -40,7 +20,7 @@ img{
 </p>
 
 
-<p align="row">
+<p align="center">
 <img src= "create.gif" width="200">
 <img src= "list.gif" width="200">
 </p>
