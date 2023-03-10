@@ -14,7 +14,7 @@ Initially, two lists are demonstarted, a list of books and a reading list.
 
 - [x] View all books: BookList
 
-- After one tappped on a book, If the book is not on the reading list, it says “Add to List”. If the book is on the reading list, it says “Remove from List”. And, clearly, that button adds and removes books on the reading list. You can view the reading list by tapping on its tab button. 
+* After one tappped on a book, If the book is not on the reading list, it says “Add to List”. If the book is on the reading list, it says “Remove from List”. And, clearly, that button adds and removes books on the reading list. You can view the reading list by tapping on its tab button. 
 
 - [x] Create a new book: BookForm and API
 
