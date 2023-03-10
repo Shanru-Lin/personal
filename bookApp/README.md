@@ -22,8 +22,8 @@ BookApp
 </p>
 
 <p align="row">
-<img src= "create.gif" width="40" >
-<img src= "list.gif" width="40" >
+<img src= "create.gif" width="280" border-radius: 8px>
+<img src= "list.gif" width="280" border-radius: 8px>
 </p>
 
 ## Features
