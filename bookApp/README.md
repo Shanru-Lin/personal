@@ -1,7 +1,7 @@
 BookApp
 
-![](create.gif = =300x400)
-![](list.gif = =100x250)
+![](create.gif = 300x400)
+![](list.gif = 100x250)
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
@@ -22,8 +22,8 @@ BookApp
 </p>
 
 <p align="row">
-<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
-<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
+<img src= "create.gif" width="400" >
+<img src= "list.gif" width="400" >
 </p>
 
 ## Features
