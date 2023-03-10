@@ -1,5 +1,4 @@
-# "Book Manager": An iOS App 
-<br />
+# "Book Manager": An iOS App <br />
 <p align="center">
   <a href="https://github.com/alexanderritik/Best-README-Template">
     <img src="logo.jpeg" alt="Logo" width="80" height="80">
@@ -11,8 +10,8 @@
 
 
 <p align="center">
-<img src= "create.gif" width="150" height="300">
-<img src= "list.gif" width="150" height="300" style="padding-left: 10px">
+<img src= "create.gif" width="150" height="300" vspace="20">
+<img src= "list.gif" width="150" height="300">
 </p>
 
 ## Features
