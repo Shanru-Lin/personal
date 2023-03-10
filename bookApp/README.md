@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<img src= "create.gif" width="150" height="300" vspace=500>
+<img src= "create.gif" width="150" style=”float:left”>
 <img src= "list.gif" width="150" height="300" vspace=500>
 </p>
 
