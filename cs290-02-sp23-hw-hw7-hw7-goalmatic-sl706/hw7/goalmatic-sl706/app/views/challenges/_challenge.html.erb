@@ -1,0 +1,34 @@
+<div id="<%= dom_id challenge %>">
+
+  <p class="my-2">
+    <%= challenge.category.name %>
+  </p >
+
+  <p class="my-2">
+    <h1><%= challenge.name %></h1>
+  </p >
+
+  <p class="my-2">
+    <strong class="font-medium mb-1">Ends at:</strong>
+    <%= challenge.ends_at %>
+  </p >
+
+  <div class="container flex my-5">
+    <div class="w-1/2 pr-4">
+      <strong class="font-medium mb-1">Goal:</strong>
+      <%= challenge.goal %>
+      <%= challenge.units %>
+    </div>
+
+    <div class="w-1/2 pl-4">
+      <strong class="font-medium mb-1">Progress:</strong>
+      <%= challenge.progress %>
+    </div>
+  </div>
+
+  <% if action_name != "show" %>
+    <%= link_to "Show this challenge", challenge, class: "rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
+    <%= link_to 'Edit this challenge', edit_challenge_path(challenge), class: "rounded-lg py-3 ml-2 px-5 bg-gray-100 inline-block font-medium" %>
+    <hr class="mt-6">
+  <% end %>
+</div>
