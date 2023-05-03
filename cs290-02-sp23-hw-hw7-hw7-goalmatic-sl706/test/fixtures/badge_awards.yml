@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  badge: one
+  user: one
+  challenge: sleep_40
+
+two:
+  badge: two
+  user: two
+  challenge: sleep_40
